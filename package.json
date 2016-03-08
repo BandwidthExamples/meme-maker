@@ -1,0 +1,28 @@
+{
+  "name": "meme-maker",
+  "version": "1.0.0",
+  "description": "Text numbers with meme text, get mms back",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'no tests'"
+  },
+  "keywords": [
+    "node",
+    "bandwidth",
+    "catapult",
+    "meme",
+    "fun",
+    "example",
+    "hackathon"
+  ],
+  "author": "Dan Tolbert",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.2.2",
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "http": "0.0.0",
+    "imgflipper": "^1.0.1",
+    "request": "^2.69.0"
+  }
+}
